@@ -1,0 +1,29 @@
+{
+  "name": "@is-(unknown)/is-typed-array",
+  "version": "1.1.0",
+  "description": "Check if a value is a typed array.",
+  "keywords": [
+    "ist-ypedaray"
+  ],
+  "homepage": "https://github.com/is-unknown/is-typed-array#readme",
+  "bugs": {
+    "url": "https://github.com/is-unknown/is-typed-array/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/is-unknown/is-typed-array.git"
+  },
+  "license": "MIT",
+  "author": "me",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "array-includes": "^3.1.9",
+    "call-bound": "^1.0.4",
+    "extract-stringtag": "^1.0.0",
+    "possible-typed-array-names": "^1.1.0"
+  }
+}
